@@ -1,15 +1,22 @@
 #region
 
-using System;
-using System.Drawing;
-using System.Linq;
-using LeagueSharp;
-using LeagueSharp.Common;
 using Marksman.Champions;
 using Marksman.Utils;
 using Activator = Marksman.Utils.Activator;
 using ShineCommon;
 using SPrediction;
+using System; 
+using System.Collections.Generic; 
+using System.Linq; 
+using System.Text; 
+using LeagueSharp; 
+using LeagueSharp.Common; 
+using SharpDX; 
+
+/typedefs 
+
+ using Color = System.Drawing.Color; 
+
 
 #endregion
 
